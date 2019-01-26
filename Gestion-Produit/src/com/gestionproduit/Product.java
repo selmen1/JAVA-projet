@@ -12,6 +12,12 @@ public class Product {
 
     }
 
+    public Product(String nam, String descriptino, double price) {
+        this.nam = nam;
+        this.descriptino = descriptino;
+        this.price = price;
+    }
+
     /**
      * Add the product to a Bill
      * @param bill the concerned bill
