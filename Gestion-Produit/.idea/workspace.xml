@@ -4,6 +4,9 @@
     <list default="true" id="f58fd6cb-ce80-412d-a29f-c32697e0bd3e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/gestionproduit/Bill.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gestionproduit/Bill.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gestionproduit/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gestionproduit/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gestionproduit/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gestionproduit/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gestionproduit/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gestionproduit/Product.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -46,7 +49,7 @@
     <session id="-204023873">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.29" value="1" />
@@ -55,24 +58,24 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="520" />
-          <entry key="txt" value="150" />
+          <entry key="java" value="874" />
+          <entry key="txt" value="169" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="520" />
-          <entry key="PLAIN_TEXT" value="150" />
+          <entry key="JAVA" value="874" />
+          <entry key="PLAIN_TEXT" value="169" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="14" />
+          <entry key="java" value="29" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="14" />
+          <entry key="JAVA" value="29" />
         </counts>
       </usages-collector>
     </session>
@@ -82,60 +85,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/gestionproduit/Delivery.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/gestionproduit/DirectDelivery.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-              <folding>
-                <element signature="e#122#123#0" expanded="true" />
-                <element signature="e#146#147#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/gestionproduit/ExpresDelivery.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
-              <folding>
-                <element signature="e#145#146#0" expanded="true" />
-                <element signature="e#164#165#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/gestionproduit/TakeAwayDelivery.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-              <folding>
-                <element signature="e#124#125#0" expanded="true" />
-                <element signature="e#148#149#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/gestionproduit/Bill.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            <state>
+              <caret lean-forward="true" />
               <folding>
+                <element signature="e#433#434#0" expanded="true" />
+                <element signature="e#483#484#0" expanded="true" />
                 <element signature="e#520#521#0" expanded="true" />
                 <element signature="e#551#552#0" expanded="true" />
               </folding>
@@ -144,13 +101,29 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/gestionproduit/RelayDelivery.java">
+        <entry file="file://$PROJECT_DIR$/src/com/gestionproduit/Product.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+            <state relative-caret-position="225">
+              <caret line="37" column="24" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="24" />
               <folding>
-                <element signature="e#141#142#0" expanded="true" />
-                <element signature="e#160#161#0" expanded="true" />
+                <element signature="e#815#816#0" expanded="true" />
+                <element signature="e#843#844#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/com/gestionproduit/BillTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="327">
+              <caret line="49" column="1" lean-forward="true" selection-start-line="49" selection-start-column="1" selection-end-line="49" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#243#244#0" expanded="true" />
+                <element signature="e#276#277#0" expanded="true" />
+                <element signature="e#340#341#0" expanded="true" />
+                <element signature="e#377#378#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -161,9 +134,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Class" />
         <option value="Interface" />
         <option value="JUnit5 Test Class" />
-        <option value="Class" />
       </list>
     </option>
   </component>
@@ -178,22 +151,24 @@
         <option value="$PROJECT_DIR$/src/com/company/Product.java" />
         <option value="$PROJECT_DIR$/src/com/company/Customer.java" />
         <option value="$PROJECT_DIR$/test/com/gestionproduit/ProductTest.java" />
-        <option value="$PROJECT_DIR$/src/com/gestionproduit/Product.java" />
-        <option value="$PROJECT_DIR$/src/com/gestionproduit/Customer.java" />
         <option value="$PROJECT_DIR$/test/com/gestionproduit/TelevisionTest.java" />
         <option value="$PROJECT_DIR$/test/com/gestionproduit/FridgTest.java" />
-        <option value="$PROJECT_DIR$/src/com/gestionproduit/Main.java" />
         <option value="$PROJECT_DIR$/src/com/gestionproduit/Television.java" />
         <option value="$PROJECT_DIR$/src/com/gestionproduit/Fridg.java" />
         <option value="$PROJECT_DIR$/test/com/gestionproduit/RelayDeliveryTest.java" />
         <option value="$PROJECT_DIR$/src/com/gestionproduit/ExpressDelivery.java" />
         <option value="$PROJECT_DIR$/test/com/gestionproduit/ExpresDeliveryTest.java" />
+        <option value="$PROJECT_DIR$/src/com/gestionproduit/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/gestionproduit/Writer.java" />
+        <option value="$PROJECT_DIR$/src/com/gestionproduit/Bill.java" />
+        <option value="$PROJECT_DIR$/src/com/gestionproduit/Customer.java" />
+        <option value="$PROJECT_DIR$/src/com/gestionproduit/Product.java" />
         <option value="$PROJECT_DIR$/src/com/gestionproduit/Delivery.java" />
+        <option value="$PROJECT_DIR$/test/com/gestionproduit/BillTest.java" />
         <option value="$PROJECT_DIR$/src/com/gestionproduit/DirectDelivery.java" />
         <option value="$PROJECT_DIR$/src/com/gestionproduit/RelayDelivery.java" />
         <option value="$PROJECT_DIR$/src/com/gestionproduit/ExpresDelivery.java" />
         <option value="$PROJECT_DIR$/src/com/gestionproduit/TakeAwayDelivery.java" />
-        <option value="$PROJECT_DIR$/src/com/gestionproduit/Bill.java" />
       </list>
     </option>
   </component>
@@ -259,7 +234,7 @@
     <property name="SearchEverywhereHistoryKey" value="UML&#9;ACTION&#9;ShowUmlDiagram&#10;uml&#9;PSI&#9;JAVA://com.sun.tools.doclint.Entity#uml" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548587955549" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548595969351" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -287,17 +262,97 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.gestionproduit.Main" />
+  <component name="RunManager" selected="JUnit.BillTest">
+    <configuration name="BillTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Gestion-Produit" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gestionproduit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.gestionproduit" />
+      <option name="MAIN_CLASS_NAME" value="com.gestionproduit.BillTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="BillTest.Given_2productsAndDelivery_When_generatingBill_Then_getGoodLineNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Gestion-Produit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gestionproduit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.gestionproduit" />
+      <option name="MAIN_CLASS_NAME" value="com.gestionproduit.BillTest" />
+      <option name="METHOD_NAME" value="Given_2productsAndDelivery_When_generatingBill_Then_getGoodLineNumber" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BillTest.Given_3productsAndDelivery_When_generatingBill_Then_getGoodTotal" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Gestion-Produit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gestionproduit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.gestionproduit" />
+      <option name="MAIN_CLASS_NAME" value="com.gestionproduit.BillTest" />
+      <option name="METHOD_NAME" value="Given_3productsAndDelivery_When_generatingBill_Then_getGoodTotal" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExpresDeliveryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Gestion-Produit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gestionproduit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.gestionproduit" />
+      <option name="MAIN_CLASS_NAME" value="com.gestionproduit.ExpresDeliveryTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RelayDeliveryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Gestion-Produit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gestionproduit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.gestionproduit" />
+      <option name="MAIN_CLASS_NAME" value="com.gestionproduit.RelayDeliveryTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.RelayDeliveryTest" />
+      <item itemvalue="JUnit.ExpresDeliveryTest" />
+      <item itemvalue="JUnit.BillTest" />
+      <item itemvalue="JUnit.BillTest.Given_3productsAndDelivery_When_generatingBill_Then_getGoodTotal" />
+      <item itemvalue="JUnit.BillTest.Given_2productsAndDelivery_When_generatingBill_Then_getGoodLineNumber" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BillTest" />
+        <item itemvalue="JUnit.BillTest.Given_3productsAndDelivery_When_generatingBill_Then_getGoodTotal" />
+        <item itemvalue="JUnit.BillTest.Given_2productsAndDelivery_When_generatingBill_Then_getGoodLineNumber" />
+        <item itemvalue="JUnit.ExpresDeliveryTest" />
+        <item itemvalue="JUnit.RelayDeliveryTest" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -312,7 +367,7 @@
       <workItem from="1548522171658" duration="2601000" />
       <workItem from="1548533431309" duration="4343000" />
       <workItem from="1548585557257" duration="446000" />
-      <workItem from="1548586308939" duration="1608000" />
+      <workItem from="1548586308939" duration="8227000" />
     </task>
     <task id="LOCAL-00001" summary="une commit pour l'hiritage .">
       <created>1548536237508</created>
@@ -335,26 +390,66 @@
       <option name="project" value="LOCAL" />
       <updated>1548586923040</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="des nouvelles classes.&#10;delivery .">
+      <created>1548588029702</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1548588029702</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="BillTest - 2019.01.27 at 13h 44m 27s.xml">
+      <configuration name="BillTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BillTest_Given_3productsAndDelivery_When_generatingBill_Then_getGoodTotal - 2019.01.27 at 13h 44m 49s.xml">
+      <configuration name="BillTest.Given_3productsAndDelivery_When_generatingBill_Then_getGoodTotal" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BillTest_Given_2productsAndDelivery_When_generatingBill_Then_getGoodLineNumber - 2019.01.27 at 13h 47m 19s.xml">
+      <configuration name="BillTest.Given_2productsAndDelivery_When_generatingBill_Then_getGoodLineNumber" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BillTest_Given_2productsAndDelivery_When_generatingBill_Then_getGoodLineNumber - 2019.01.27 at 14h 00m 56s.xml">
+      <configuration name="BillTest.Given_2productsAndDelivery_When_generatingBill_Then_getGoodLineNumber" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BillTest_Given_3productsAndDelivery_When_generatingBill_Then_getGoodTotal - 2019.01.27 at 14h 01m 04s.xml">
+      <configuration name="BillTest.Given_3productsAndDelivery_When_generatingBill_Then_getGoodTotal" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BillTest - 2019.01.27 at 14h 01m 16s.xml">
+      <configuration name="BillTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BillTest - 2019.01.27 at 14h 04m 21s.xml">
+      <configuration name="BillTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BillTest - 2019.01.27 at 14h 06m 41s.xml">
+      <configuration name="BillTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BillTest_Given_3productsAndDelivery_When_generatingBill_Then_getGoodTotal - 2019.01.27 at 14h 09m 35s.xml">
+      <configuration name="BillTest.Given_3productsAndDelivery_When_generatingBill_Then_getGoodTotal" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BillTest - 2019.01.27 at 14h 31m 36s.xml">
+      <configuration name="BillTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8998000" />
+    <option name="totallyTimeSpent" value="15617000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49836066" visible="true" weight="0.25416037" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49836066" visible="true" weight="0.25416037" />
       <window_info id="Structure" order="1" sideWeight="0.50163937" side_tool="true" weight="0.24962178" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" sideWeight="0.50163937" side_tool="true" weight="0.24962178" />
+      <window_info anchor="bottom" id="Messages" weight="0.3295082" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3295082" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3295082" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -384,7 +479,8 @@
     <MESSAGE value="une commit pour l'hiritage ." />
     <MESSAGE value="Application polymorfism ." />
     <MESSAGE value="cree Delivery et les test .&#10;class abstract et des class implements cette class" />
-    <option name="LAST_COMMIT_MESSAGE" value="cree Delivery et les test .&#10;class abstract et des class implements cette class" />
+    <MESSAGE value="des nouvelles classes.&#10;delivery ." />
+    <option name="LAST_COMMIT_MESSAGE" value="des nouvelles classes.&#10;delivery ." />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/jdk.compiler/com/sun/tools/doclint/Entity.java">
@@ -430,20 +526,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/gestionproduit/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/gestionproduit/Product.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="66" selection-start-line="14" selection-start-column="66" selection-end-line="14" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/com/gestionproduit/ProductTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -451,24 +533,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/gestionproduit/Customer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="53" selection-start-line="6" selection-start-column="53" selection-end-line="6" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/gestionproduit/Television.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/gestionproduit/Fridg.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="e#345#346#0" expanded="true" />
+            <element signature="e#373#374#0" expanded="true" />
+            <element signature="e#406#407#0" expanded="true" />
+            <element signature="e#436#437#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -479,10 +553,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/gestionproduit/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/test/com/gestionproduit/ExpresDeliveryTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="51" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
+        <state relative-caret-position="306">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -491,10 +572,76 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/com/gestionproduit/RelayDeliveryTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
+        <state relative-caret-position="327">
+          <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/gestionproduit/Television.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="1377" selection-start-line="1377" selection-end-line="1377" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/gestionproduit/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/gestionproduit/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="37" column="24" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="24" />
+          <folding>
+            <element signature="e#815#816#0" expanded="true" />
+            <element signature="e#843#844#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/gestionproduit/Writer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/com/gestionproduit/BillTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="49" column="1" lean-forward="true" selection-start-line="49" selection-start-column="1" selection-end-line="49" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#243#244#0" expanded="true" />
+            <element signature="e#276#277#0" expanded="true" />
+            <element signature="e#340#341#0" expanded="true" />
+            <element signature="e#377#378#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/gestionproduit/ExpresDelivery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#145#146#0" expanded="true" />
+            <element signature="e#175#176#0" expanded="true" />
+            <element signature="e#369#370#0" expanded="true" />
+            <element signature="e#433#434#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -502,59 +649,54 @@
     <entry file="file://$PROJECT_DIR$/src/com/gestionproduit/Delivery.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/gestionproduit/DirectDelivery.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-          <folding>
-            <element signature="e#122#123#0" expanded="true" />
-            <element signature="e#146#147#0" expanded="true" />
-          </folding>
+          <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/gestionproduit/RelayDelivery.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+        <state relative-caret-position="327">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
           <folding>
             <element signature="e#141#142#0" expanded="true" />
-            <element signature="e#160#161#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/gestionproduit/ExpresDelivery.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
-          <folding>
-            <element signature="e#145#146#0" expanded="true" />
-            <element signature="e#164#165#0" expanded="true" />
+            <element signature="e#175#176#0" expanded="true" />
+            <element signature="e#437#438#0" expanded="true" />
+            <element signature="e#493#494#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/gestionproduit/TakeAwayDelivery.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        <state relative-caret-position="204">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
           <folding>
-            <element signature="e#124#125#0" expanded="true" />
-            <element signature="e#148#149#0" expanded="true" />
+            <element signature="e#194#195#0" expanded="true" />
+            <element signature="e#219#220#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/gestionproduit/DirectDelivery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+          <folding>
+            <element signature="e#122#123#0" expanded="true" />
+            <element signature="e#149#150#0" expanded="true" />
+            <element signature="e#194#195#0" expanded="true" />
+            <element signature="e#243#244#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/gestionproduit/Bill.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        <state>
+          <caret lean-forward="true" />
           <folding>
+            <element signature="e#433#434#0" expanded="true" />
+            <element signature="e#483#484#0" expanded="true" />
             <element signature="e#520#521#0" expanded="true" />
             <element signature="e#551#552#0" expanded="true" />
           </folding>

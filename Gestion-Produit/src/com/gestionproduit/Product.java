@@ -27,15 +27,19 @@ public class Product {
 
     }
 
-    public String getNam() {
+    public String getName() {
         return nam;
     }
 
-    public String getDescriptino() {
+    public String getDescription() {
         return descriptino;
     }
 
     public void setPrice(double price) {
         this.price = price;
+    }
+
+    public double getPrice() {
+        return price;
     }
 }

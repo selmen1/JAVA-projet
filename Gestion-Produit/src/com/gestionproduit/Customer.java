@@ -9,11 +9,11 @@ public class Customer {
         this.adresse = adresse;
     }
 
-    public String getFullnam() {
+    public String getFullname() {
         return fullnam;
     }
 
-    public String getAdresse() {
+    public String getAddress() {
         return adresse;
     }
 }
